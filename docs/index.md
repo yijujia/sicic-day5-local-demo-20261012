@@ -14,3 +14,7 @@ I choose the task and check the sources. Publishing, sending messages and connec
 - [Research procedure](agent/skill.md)
 - [Selected result and checks](showcase/first-result.md)
 - [Troubleshooting](troubleshooting.md)
+
+## My publication check
+
+I opened the published portfolio, checked its navigation and confirmed this update on the live site. Local changes only become public after I deploy them.
