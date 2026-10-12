@@ -1,0 +1,8 @@
+.venv/
+site/
+.obsidian/
+.env
+.env.*
+*.log
+config.toml
+credentials.json
